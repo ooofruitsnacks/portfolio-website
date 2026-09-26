@@ -149,7 +149,7 @@ const LoadingScreen: React.FC<LoadingProps> = () => {
                         <div style={styles.logoContainer}>
                             <div>
                                 <p style={styles.green}>
-                                    <b>Heffernan,</b>{' '}
+                                    <b>Owen Edwards</b>{' '}
                                 </p>
                                 <p style={styles.green}>
                                     <b>ACS | a creative solution</b>
